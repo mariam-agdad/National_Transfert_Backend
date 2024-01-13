@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/EmailSender/EmailSender/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EmailSender/EmailSender/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agent/agent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agent/agent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/agent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/config-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/discovery/discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/discovery/discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/discovery/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/discovery/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/otp/otp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/otp/otp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/otp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/otp/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
